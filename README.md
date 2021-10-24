@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I have some projects at https://gitlab.com/psalaets
+I also have projects at https://gitlab.com/psalaets
